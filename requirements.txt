@@ -43,4 +43,4 @@ aiohttp
 asyncio
 ffmpeg
 ujson
-speedtest
+
