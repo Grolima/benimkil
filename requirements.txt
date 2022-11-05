@@ -20,10 +20,10 @@ glitch_this
 opencv-python-headless
 
 
-youtube_search_python
 
-youtube_search
-ytthumb
+
+
+
 search_engine_parser
 
 
@@ -37,7 +37,7 @@ humanize
 PyPDF2
 pyshorteners
 ffmpeg-python
-py-tgcalls
+
 python-dotenv
 aiohttp
 asyncio
